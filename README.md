@@ -8,3 +8,5 @@ As of now, this system can perform the following:
     3) View patient information
     4) Check Doctor availability
     5) Schedule a lab test
+
+This project was made with the help of NetBeans IDE.
